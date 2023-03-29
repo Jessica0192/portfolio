@@ -27,6 +27,7 @@
   text-align: center;
   width: 1em;
   line-height: inherit;
+  font-size: 1.5rem;
 }
 svg:not(:root).svg-inline--fa {
   overflow: visible;
