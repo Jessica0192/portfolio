@@ -1,4 +1,5 @@
 <h1 align="center">Jessica Sim - Portfolio</h1>
+Welcome to my portfolio, showcasing my skills and experience in software development and highlighting my future plans for continuous growth and improvement.
 
 ## Technologies and Tools
 ### Programming Languages
