@@ -32,4 +32,4 @@ I'm passionate about continuous learning and improvement, and I have several lon
 I believe that these goals will not only help me grow professionally but also make a positive impact on the world.
 
 ## Acknowledgments
-This portfolio was built using the 'DevFolio' template by Anil Seervi. I would like to thank them for providing this amazing resource under the MIT license, which allowed me to customize and personalize it for my own use.
+This portfolio was built using the 'DevFolio' template by Anil Seervi. I would like to thank Anil Seervi for providing this amazing resource under the MIT license, which allowed me to customize and personalize it for my own use.
